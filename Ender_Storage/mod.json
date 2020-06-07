@@ -1,0 +1,13 @@
+{
+    "mod_filename": "EnderStorage-1.15.2-2.5.0.143-universal.jar",
+    "mod_id": "enderstorage",
+    "mod_name": "Ender Storage",
+    "mc_version": "1.15.2",
+    "mod_authors": [
+        "covers1624",
+        "Chicken_Bones"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/ender-storage-1-8",
+    "description": "linked color coded ender chests",
+    "mod_dir": "/Ender_Storage/"
+}

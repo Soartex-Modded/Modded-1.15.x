@@ -1,0 +1,12 @@
+{
+    "mod_filename": "JAOPCA-1.15.2-3.2.0.10.jar",
+    "mod_id": "jaopca",
+    "mod_name": "JAOPCA",
+    "mc_version": "1.15.2",
+    "mod_authors": [
+        "TheLMiffy1111"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/jaopca",
+    "description": "Just A Ore Processing Compatibility Attempt",
+    "mod_dir": "/JAOPCA/"
+}

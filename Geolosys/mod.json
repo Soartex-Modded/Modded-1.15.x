@@ -1,0 +1,11 @@
+{
+    "mod_filename": "Geolosys-1.15.2-4.0.21.jar",
+    "mod_id": "geolosys",
+    "mod_name": "Geolosys",
+    "mod_dir": "/Geolosys/",
+    "mod_authors": [
+        "oitsjustjose"
+    ],
+    "url_website": "https://minecraft.curseforge.com/projects/geolosys",
+    "description": "Ores in Geological Systems added to Minecraft, logically!"
+}

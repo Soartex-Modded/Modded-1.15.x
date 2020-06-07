@@ -1,0 +1,16 @@
+{
+    "mod_filename": "Mantle-1.15.2-1.5.15.jar",
+    "mod_id": "mantle",
+    "mod_name": "Mantle",
+    "mc_version": "1.15.2",
+    "mod_authors": [
+        "mDiyo",
+        "fuj1n",
+        "Alexbegt",
+        "bonusboni",
+        "ProgWML6"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/mantle",
+    "description": "Shared code for Forge mods",
+    "mod_dir": "/Mantle/"
+}

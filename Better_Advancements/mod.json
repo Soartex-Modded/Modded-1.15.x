@@ -1,0 +1,11 @@
+{
+    "mod_filename": "BetterAdvancements-1.15.2-0.1.0.96.jar",
+    "mod_id": "betteradvancements",
+    "mod_name": "Better Advancements",
+    "mod_dir": "/Better_Advancements/",
+    "mod_authors": [
+        "way2muchnoise"
+    ],
+    "url_website": "https://minecraft.curseforge.com/projects/better-advancements",
+    "description": "An improvement to the Advancement screen"
+}
