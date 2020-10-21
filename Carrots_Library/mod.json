@@ -1,0 +1,12 @@
+{
+    "mod_filename": "carrotslib-mc1.15.2-2.5b1.jar",
+    "mod_id": "carrots-lib",
+    "mod_name": "Carrots Library",
+    "mc_version": "1.15.2",
+    "mod_authors": [
+        "The_Wabbit0101"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/carrots-lib",
+    "description": "Base library used by The_Wabbit's mods",
+    "mod_dir": "/Carrots_Library/"
+}

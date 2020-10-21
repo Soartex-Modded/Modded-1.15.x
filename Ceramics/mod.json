@@ -1,0 +1,11 @@
+{
+    "mod_filename": "Ceramics-1.15.2-1.4.0.jar",
+    "mod_id": "ceramics",
+    "mod_name": "Ceramics",
+    "mod_dir": "/Ceramics/",
+    "mod_authors": [
+        "KnightMiner"
+    ],
+    "url_website": "https://minecraft.curseforge.com/projects/ceramics",
+    "description": "Much of the code for clay buckets is based off the Forge universal bucket."
+}

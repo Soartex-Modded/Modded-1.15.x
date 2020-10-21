@@ -1,0 +1,12 @@
+{
+    "mod_filename": "engineersdecor-1.12.2-1.1.1-b1.jar",
+    "mod_id": "engineers-decor",
+    "mod_name": "Engineer's Decor",
+    "mc_version": "1.15.2",
+    "mod_authors": [
+        "wilechaote"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/engineers-decor",
+    "description": "Adds cosmetic blocks for the engineer's factory, workshop, and home.",
+    "mod_dir": "/Engineers_Decor/"
+}

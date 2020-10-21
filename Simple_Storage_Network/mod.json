@@ -1,0 +1,12 @@
+{
+    "mod_filename": "SimpleStorageNetwork-1.15.2-0.3.2.jar",
+    "mod_id": "storagenetwork",
+    "mod_name": "Simple Storage Network",
+    "mod_dir": "/Simple_Storage_Network/",
+    "mod_authors": [
+        "MrRiegel",
+        "Lothrazar"
+    ],
+    "url_website": "https://minecraft.curseforge.com/projects/simple-storage-network",
+    "description": "A simplified version of the abandoned Storage Network mod from MrRiegel."
+}

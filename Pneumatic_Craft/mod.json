@@ -1,0 +1,11 @@
+{
+    "mod_filename": "pneumaticcraft-repressurized-1.15.2-1.1.1-6.jar",
+    "mod_name": "Pneumatic Craft",
+    "mod_id": "PneumaticCraft",
+    "url_website": "https://minecraft.curseforge.com/projects/pneumaticcraft-repressurized",
+    "description": "A port of MineMaarten's PneumaticCraft to Minecraft 1.12+",
+    "mod_dir": "/Pneumatic_Craft/",
+    "mod_authors": [
+        "MineMaarten"
+    ]
+}

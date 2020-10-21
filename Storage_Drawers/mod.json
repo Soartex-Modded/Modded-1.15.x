@@ -1,0 +1,11 @@
+{
+    "mod_filename": "StorageDrawers-1.12.2-5.4.2.jar",
+    "mod_id": "storagedrawers",
+    "mod_name": "Storage Drawers",
+    "mod_authors": [
+        "Texelsaur"
+    ],
+    "url_website": "http://www.jaquadro.com/",
+    "description": "Interactive compartment storage for your workshops.",
+    "mod_dir": "/Storage_Drawers/"
+}
