@@ -1,0 +1,12 @@
+{
+    "mod_filename": "tumbleweed-1.15-0.4.8.jar",
+    "mod_id": "tumbleweed",
+    "mod_name": "Tumbleweed",
+    "mc_version": "1.15.2",
+    "mod_authors": [
+        "konwboj"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/tumbleweed",
+    "description": "Tumbling tumbleweeds in Minecraft!",
+    "mod_dir": "/Tumbleweed/"
+}

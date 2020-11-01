@@ -1,0 +1,12 @@
+{
+    "mod_filename": "Geolosys-1.15.2-4.0.21.jar",
+    "mod_id": "geolosys",
+    "mod_name": "Geolosys",
+    "mc_version": "1.15.2",
+    "mod_authors": [
+        "oitsjustjose"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/geolosys",
+    "description": "TerraFirmaCraft styled ore generation with modpacks in mind.",
+    "mod_dir": "/Geolosys/"
+}

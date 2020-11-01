@@ -1,0 +1,11 @@
+{
+    "mod_filename": "QuantumStorage-1.10.2-3.3.6.jar",
+    "mod_id": "quantumstorage",
+    "mod_name": "Quantum Storage",
+    "mod_authors": [
+        "GigaBit101"
+    ],
+    "url_website": "",
+    "description": "A mod that adds a Deep Storage Unit to hold all the things ",
+    "mod_dir": "/Quantum_Storage/"
+}

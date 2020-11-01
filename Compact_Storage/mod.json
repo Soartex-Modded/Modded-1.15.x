@@ -1,0 +1,12 @@
+{
+    "mod_id": "compactstorage",
+    "mod_name": "Compact Storage",
+    "mod_dir": "/Compact_Storage/",
+    "mod_version": "4.0.3",
+    "mc_version": "1.15.2",
+    "mod_authors": [
+        "tattyseal"
+    ],
+    "url_website": "https://minecraft.curseforge.com/projects/compactstorage",
+    "description": "Adding new storage solutions to your world!"
+}

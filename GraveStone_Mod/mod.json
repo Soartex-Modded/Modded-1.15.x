@@ -1,0 +1,13 @@
+{
+    "mod_id": "gravestone-mod",
+    "mod_name": "GraveStone Mod",
+    "mod_filename": "gravestone-1.17.3.jar",
+    "mc_version": "1.12.2",
+    "mod_authors": [
+        "henkelmax"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/gravestone-mod/",
+    "description": "Places a gravestone with your inventory items inside when you die",
+    "mod_version": "1.10.3",
+    "mod_dir": "/GraveStone_Mod/"
+}

@@ -1,0 +1,11 @@
+{
+    "mod_filename": "CraftingTweaks_1.15.1-11.0.0.jar",
+    "mod_id": "craftingtweaks",
+    "mod_name": "Crafting Tweaks",
+    "mod_dir": "/Crafting_Tweaks/",
+    "mod_authors": [
+        "BlayTheNinth"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/crafting-tweaks",
+    "description": "Usefull enhancments for crafting tables."
+}

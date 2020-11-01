@@ -1,0 +1,12 @@
+{
+    "mod_filename": "IntegratedDynamics-1.15.2-1.1.19.jar",
+    "mod_id": "integrateddynamics",
+    "mod_name": "Integrated Dynamics",
+    "mc_version": "1.15.2",
+    "mod_authors": [
+        "kroeser"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/integrated-dynamics",
+    "description": "A mod to take full and automated control of your appliances.",
+    "mod_dir": "/Integrated_Dynamics/"
+}
