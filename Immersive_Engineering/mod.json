@@ -1,0 +1,13 @@
+{
+    "mod_filename": "ImmersiveEngineering-1.15.2-4.1.1-125.jar",
+    "mod_id": "immersive-engineering",
+    "mod_name": "Immersive Engineering",
+    "mc_version": "1.15.2",
+    "mod_authors": [
+        "BluSunrize",
+        "malte0811"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/immersive-engineering",
+    "description": "A retro-futuristic tech mod!",
+    "mod_dir": "/Immersive_Engineering/"
+}

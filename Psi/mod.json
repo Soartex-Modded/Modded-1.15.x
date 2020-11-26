@@ -1,0 +1,11 @@
+{
+    "mod_filename": "Psi 1.16-88.jar",
+    "mod_id": "psi",
+    "mod_name": "Psi",
+    "mod_authors": [
+        "Vazkii"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/psi",
+    "description": "Psionic Spellcasting Instruments",
+    "mod_dir": "/Psi/"
+}
